@@ -14,10 +14,7 @@ const config: Config = {
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
     },
-    screens: { 
-      Mobile: "375px",
-      Desktop: "1440px",
-    },
+    
     colors: {
       primary: "hsl(75, 94%, 57%)",
       neutral: {
